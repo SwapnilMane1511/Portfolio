@@ -1,1 +1,2 @@
 # Portfolio
+I am a passionate and results-driven full stack web developer with a strong focus on the MERN stack (MongoDB, Express.js, React.js, Node.js). My portfolio reflects hands-on experience in building responsive, user-friendly web applications, combining clean frontend design with efficient backend logic. Skilled in JavaScript, React, HTML/CSS, and RESTful APIs, I enjoy turning ideas into real-world digital solutions. I’m always eager to learn new technologies and take on challenging projects that push my skills further.
